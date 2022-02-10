@@ -9,6 +9,7 @@ require (
 )
 
 require (
+	github.com/go-chi/chi/v5 v5.0.7 // indirect
 	github.com/go-stack/stack v1.8.0 // indirect
 	github.com/golang/protobuf v1.3.1 // indirect
 	github.com/golang/snappy v0.0.1 // indirect
@@ -25,6 +26,7 @@ require (
 )
 
 require (
+	github.com/go-chi/chi v1.5.4
 	github.com/go-redis/redis v6.15.9+incompatible
 	github.com/leodido/go-urn v1.1.0 // indirect
 	github.com/vmihailenco/msgpack v4.0.4+incompatible
